@@ -221,6 +221,10 @@ body {
         flex-direction: column;
     }
 
+    .hey{
+        width: 100%;
+    }
+
     #hero{
         margin-bottom: 600px;
     }
