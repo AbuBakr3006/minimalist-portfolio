@@ -20,6 +20,9 @@ body {
 /* header  */
 
 .header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding-top: 64px;
     padding-bottom: 55px;
 
@@ -254,10 +257,6 @@ body {
 
 
 /* INTERESTED */
-
-#interested {
-    /* margin-bottom: 150px; */
-}
 
 .interested__title {
     display: flex;
